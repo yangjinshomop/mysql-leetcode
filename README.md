@@ -1,0 +1,15 @@
+* leetcode题解  
+不一定是最优解，还望交流
+  * [部门工资前三高的所有员工](https://github.com/yangjinshomop/mysql-leetcode/issues/1)
+  * [行程和用户](https://github.com/yangjinshomop/mysql-leetcode/issues/2)
+  * [员工薪水中位数](https://github.com/yangjinshomop/mysql-leetcode/issues/3)
+  * [给定数字的频率查询中位数](https://github.com/yangjinshomop/mysql-leetcode/issues/4)
+  * [查询员工的累计薪水](https://github.com/yangjinshomop/mysql-leetcode/issues/5)
+  * [体育馆的人流量](https://github.com/yangjinshomop/mysql-leetcode/issues/6)
+  * [平均工资：部门与公司比较](https://github.com/yangjinshomop/mysql-leetcode/issues/7)
+  * [学生地理信息报告](https://github.com/yangjinshomop/mysql-leetcode/issues/8)
+  * [游戏玩法分析 V](https://github.com/yangjinshomop/mysql-leetcode/issues/9)
+  * [用户购买平台](https://github.com/yangjinshomop/mysql-leetcode/issues/10)
+  * [市场分析 II](https://github.com/yangjinshomop/mysql-leetcode/issues/11)
+  * [锦标赛优胜者](https://github.com/yangjinshomop/mysql-leetcode/issues/12)
+  * [Hopper 公司查询 I](https://github.com/yangjinshomop/mysql-leetcode/issues/13)
